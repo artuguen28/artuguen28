@@ -1,6 +1,7 @@
-### Hi there! I'm Athur👋
+### Hi there! I'm Arthur👋
 
-- 🌱 I’m currently learning Python for Data Science projects.
-- 📚 Fluent in English and French; learning German.
-- 📫 How to reach me: artuguen28@gmail.com
+- Machine Learning Analyst
+- Working on Computer Vision projects.
+- Fluent in English and French; learning German.
+- How to reach me: artuguen28@gmail.com
 
