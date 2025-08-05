@@ -1,7 +1,27 @@
-### Hi there! I'm Arthur👋
+👋 Hi, I'm Arthur!
+I'm a passionate Data Scientist specializing in Computer Vision and AI-powered applications.
+Currently building intelligent systems that see the world — one frame at a time.
 
-- Data Scientist
-- Working on Computer Vision and NLP projects.
-- Fluent in English and French; learning German.
-- How to reach me: artuguen28@gmail.com
+🔭 Projects I'm working on
+- 🧠 StretchFlow – A real-time stretch detection app using MediaPipe, OpenCV & Pygame
 
+
+💡 What I love
+
+- Building real-time CV apps with intuitive user experiences
+- Applying deep learning to make daily tasks smarter
+- Clean architecture, SOLID principles, and beautiful code
+
+🛠 Tech Stack
+
+Languages: Python, JavaScript
+Tools: PyTorch, OpenCV, MediaPipe, TensorRT, Triton Server, Pygame, Git, Docker
+Frameworks: FastAPI, Flask, Streamlit
+
+📫 How to reach me
+📧 artuguen28@gmail.com
+
+⚡ Fun fact
+I'm part Brazilian 🇧🇷 and French 🇫🇷 — I blend samba with structure.
+
+Let me know if you'd like to tailor this more toward job-seeking, academic research, or casual side projects.
