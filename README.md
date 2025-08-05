@@ -8,20 +8,20 @@ Currently building intelligent systems that see the world — one frame at a tim
 
 💡 What I love
 
-- Building real-time CV apps with intuitive user experiences
-- Applying deep learning to make daily tasks smarter
-- Clean architecture, SOLID principles, and beautiful code
+- Building real-time CV apps with intuitive user experiences  
+- Applying deep learning to make daily tasks smarter  
+- Clean architecture, SOLID principles, and beautiful code  
 
 🛠 Tech Stack
 
-Languages: Python, JavaScript
-Tools: PyTorch, OpenCV, MediaPipe, TensorRT, Triton Server, Pygame, Git, Docker
-Frameworks: FastAPI, Flask, Streamlit
+**Languages**: Python, JavaScript, C/C++
+**Tools**: PyTorch, OpenCV, MediaPipe, TensorRT, Triton Server, Pygame, Git, Docker  
+**Frameworks**: FastAPI, Flask, Streamlit  
 
-📫 How to reach me
+📫 How to reach me  
 📧 artuguen28@gmail.com
 
-⚡ Fun fact
+⚡ Fun fact  
 I'm part Brazilian 🇧🇷 and French 🇫🇷 — I blend samba with structure.
 
 Let me know if you'd like to tailor this more toward job-seeking, academic research, or casual side projects.
