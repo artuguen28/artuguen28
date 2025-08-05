@@ -14,7 +14,7 @@ Currently building intelligent systems that see the world — one frame at a tim
 
 🛠 Tech Stack
 
-**Languages**: Python, JavaScript, C/C++
+**Languages**: Python, JavaScript, C/C++  
 **Tools**: PyTorch, OpenCV, MediaPipe, TensorRT, Triton Server, Pygame, Git, Docker  
 **Frameworks**: FastAPI, Flask, Streamlit  
 
