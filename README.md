@@ -23,5 +23,3 @@ Currently building intelligent systems that see the world — one frame at a tim
 
 ⚡ Fun fact  
 I'm part Brazilian 🇧🇷 and French 🇫🇷 — I blend samba with structure.
-
-Let me know if you'd like to tailor this more toward job-seeking, academic research, or casual side projects.
